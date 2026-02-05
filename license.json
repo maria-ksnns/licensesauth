@@ -1,16 +1,35 @@
 {
   "LIC-PRISAO-001": {
     "active": true,
-    "scripts": ["prisaoadm"],
+    "scripts": [
+      "prisaoadm"
+    ],
     "owner": "Tokyo",
     "createdAt": "2026-02-01T12:00:00Z",
     "expiresAt": null
   },
   "LIC-PAINEL-002": {
     "active": true,
-    "scripts": ["paineladm"],
+    "scripts": [
+      "paineladm"
+    ],
     "owner": "Tokyo",
     "createdAt": "2026-02-01T12:00:00Z",
     "expiresAt": null
+  },
+  "scripts": {
+    "prisaoadm": [
+      {
+        "key": "TOKYO-863D-BB49-7419-48E3",
+        "scriptName": "prisaoadm",
+        "serverIp": "82.24.40.37",
+        "buyerName": "tokyo",
+        "days": 1,
+        "expiresAt": "2026-02-06T05:05:46.624Z",
+        "createdAt": "2026-02-05T05:05:46.624Z",
+        "createdBy": "870673376639848479",
+        "active": true
+      }
+    ]
   }
 }
