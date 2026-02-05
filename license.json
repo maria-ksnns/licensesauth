@@ -1,0 +1,16 @@
+{
+  "LIC-PRISAO-001": {
+    "active": true,
+    "scripts": ["prisaoadm"],
+    "owner": "Tokyo",
+    "createdAt": "2026-02-01T12:00:00Z",
+    "expiresAt": null
+  },
+  "LIC-PAINEL-002": {
+    "active": true,
+    "scripts": ["paineladm"],
+    "owner": "Tokyo",
+    "createdAt": "2026-02-01T12:00:00Z",
+    "expiresAt": null
+  }
+}
