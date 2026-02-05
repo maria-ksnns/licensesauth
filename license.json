@@ -40,6 +40,17 @@
         "createdAt": "2026-02-05T05:12:31.483Z",
         "createdBy": "870673376639848479",
         "active": true
+      },
+      {
+        "key": "TOKYO-2321-098F-BB9B-4F57",
+        "scriptName": "prisaoadm",
+        "serverIp": "82.24.40.37",
+        "buyerName": "tokyo",
+        "days": 0,
+        "expiresAt": null,
+        "createdAt": "2026-02-05T13:50:22.456Z",
+        "createdBy": "870673376639848479",
+        "active": true
       }
     ],
     "wn-org": [
