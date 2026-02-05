@@ -29,6 +29,17 @@
         "createdAt": "2026-02-05T05:05:46.624Z",
         "createdBy": "870673376639848479",
         "active": true
+      },
+      {
+        "key": "TOKYO-0E8F-5F32-E102-4AAC",
+        "scriptName": "prisaoadm",
+        "serverIp": "82.24.40.37",
+        "buyerName": "tokyodev",
+        "days": 1,
+        "expiresAt": "2026-02-06T05:12:31.483Z",
+        "createdAt": "2026-02-05T05:12:31.483Z",
+        "createdBy": "870673376639848479",
+        "active": true
       }
     ]
   }
