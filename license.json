@@ -65,6 +65,19 @@
         "createdBy": "870673376639848479",
         "active": true
       }
+    ],
+    "tokyo_chest_creator": [
+      {
+        "key": "TOKYO-678A-2687-9A04-4C4B",
+        "scriptName": "tokyo_chest_creator",
+        "serverIp": "82.24.40.37",
+        "buyerName": "kzzin",
+        "days": 0,
+        "expiresAt": null,
+        "createdAt": "2026-02-07T03:11:30.818Z",
+        "createdBy": "870673376639848479",
+        "active": true
+      }
     ]
   }
 }
