@@ -91,6 +91,19 @@
         "createdBy": "870673376639848479",
         "active": true
       }
+    ],
+    "tokyo_tracer": [
+      {
+        "key": "TOKYO-8C45-80DC-45A9-4582",
+        "scriptName": "tokyo_tracer",
+        "serverIp": "82.24.40.152",
+        "buyerName": "teste",
+        "days": 1,
+        "expiresAt": "2026-02-21T02:10:13.396Z",
+        "createdAt": "2026-02-20T02:10:13.396Z",
+        "createdBy": "870673376639848479",
+        "active": true
+      }
     ]
   }
 }
