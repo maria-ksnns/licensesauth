@@ -136,6 +136,17 @@
         "createdAt": "2026-02-20T02:27:12.185Z",
         "createdBy": "870673376639848479",
         "active": true
+      },
+      {
+        "key": "TOKYO-8F9B-2AA6-5AB6-4898",
+        "scriptName": "tokyo_tracer",
+        "serverIp": "1111.111.111.11",
+        "buyerName": "frangosasasa",
+        "days": 1,
+        "expiresAt": "2026-02-21T02:34:40.958Z",
+        "createdAt": "2026-02-20T02:34:40.959Z",
+        "createdBy": "870673376639848479",
+        "active": true
       }
     ]
   }
