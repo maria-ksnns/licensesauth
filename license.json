@@ -125,6 +125,17 @@
         "createdAt": "2026-02-20T02:20:12.321Z",
         "createdBy": "870673376639848479",
         "active": true
+      },
+      {
+        "key": "TOKYO-540C-F71E-DDE7-4FB9",
+        "scriptName": "tokyo_tracer",
+        "serverIp": "111.11.111.11",
+        "buyerName": "111111111",
+        "days": 1,
+        "expiresAt": "2026-02-21T02:27:12.185Z",
+        "createdAt": "2026-02-20T02:27:12.185Z",
+        "createdBy": "870673376639848479",
+        "active": true
       }
     ]
   }
