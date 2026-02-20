@@ -103,6 +103,17 @@
         "createdAt": "2026-02-20T02:10:13.396Z",
         "createdBy": "870673376639848479",
         "active": true
+      },
+      {
+        "key": "TOKYO-8234-8E0F-60A1-4D6E",
+        "scriptName": "tokyo_tracer",
+        "serverIp": "82.24.40.210",
+        "buyerName": "gui021",
+        "days": 0,
+        "expiresAt": null,
+        "createdAt": "2026-02-20T02:18:55.230Z",
+        "createdBy": "870673376639848479",
+        "active": true
       }
     ]
   }
