@@ -78,6 +78,19 @@
         "createdBy": "870673376639848479",
         "active": true
       }
+    ],
+    "tokyo": [
+      {
+        "key": "TOKYO-C8E2-7702-D61E-41C4",
+        "scriptName": "tokyo",
+        "serverIp": "82.24.40.152",
+        "buyerName": "tokyo",
+        "days": 1,
+        "expiresAt": "2026-02-21T02:02:57.084Z",
+        "createdAt": "2026-02-20T02:02:57.084Z",
+        "createdBy": "870673376639848479",
+        "active": true
+      }
     ]
   }
 }
